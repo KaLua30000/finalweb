@@ -1,18 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
 
 @font-face {
-    font-family: 'Cubic';
-    src: local("Cubic"),
-        url('../fonts/Cubic.woff') format("woff");
-}
-
-@font-face {
-    font-family: 'WD';
-    src: local("WD"),
-        url('../fonts/WD.woff') format("woff");
-}
-
-@font-face {
     font-family: 'GenSenRounded';
     src: local("GenSenRounded"),
         url('../fonts/GenSenRounded.woff') format("woff");
